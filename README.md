@@ -1,9 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Kao Enginer
-- 🌱 I’m currently learning Product Maker
-- 💬 Ask me about Engineer In VietNam 
-- 📫 How to reach me: trkhanh8@.gmail.com
+```C#
+public My_Corpse Life(Education ed, Knowledge kn, Passion p, Google g){
+  volatile bool success=true,alive=true; 
+  while(alive){
+    while(!success){
+      keeTyring();
+    } 
+   Build_repeat();
+   }
+}
+```
 
 <!--
 **trkhanh/trkhanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
