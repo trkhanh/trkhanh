@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Kao Enginer
+- 🌱 I’m currently learning Product Maker
+- 💬 Ask me about Engineer In VietNam 
+- 📫 How to reach me: trkhanh8@.gmail.com
+
 <!--
 **trkhanh/trkhanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
