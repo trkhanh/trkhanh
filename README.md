@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-```C#
-public My_Corpse Life(Education ed, Knowledge kn, Passion p, Google g){
-  volatile bool success=true,alive=true; 
+```
+func myCorpse::Life (Education ed, Knowledge kn, Passion p, Google g) :: <func>{
+  bool success=true, alive=true; 
   while(alive){
     while(!success){
-      keeTyring();
+      keepTyring();
     } 
    Build_repeat();
    }
